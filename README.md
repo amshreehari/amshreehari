@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Big Data**
 
-- 💬 Ask me about **Machine Learning Algorithms**
+- 💬 Ask me about **Data Science & Machine Learning Algorithms**
 
 - 📫 How to reach me **sreeharisrezz10@gmail.com**
 
